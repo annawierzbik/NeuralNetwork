@@ -15,13 +15,6 @@ This project implements a simple neural network from scratch using NumPy. The ne
 - **Loss Function**: Uses cross-entropy loss for classification tasks.
 - **Training**: Supports batch training with accuracy tracking.
 
-## Installation
-Ensure you have Python installed along with the required dependencies:
-
-```sh
-pip install numpy tensorflow matplotlib
-```
-
 ## Classes & Functions
 ### Layer (Abstract Base Class)
 Defines the structure for all neural network layers.
